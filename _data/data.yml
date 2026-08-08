@@ -60,14 +60,7 @@ education:
   - degree: Graduate Certificate in Business Analytics
     university: Purdue University Daniels School of Business
     time: 2026 - Present
-   #details: |
-   #   Describe your study here lorem ipsum dolor sit amet, consectetuer
-   #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-   #  sociis natoque penatibus et magnis dis parturient montes, nascetur
-   # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-   # pretium quis, sem.
-   #     - Bullet point
-   #    - Bullet point
+
   - degree: BA in Sociology
     university: Grinnell College
     time: 2009 - 2013
@@ -80,6 +73,7 @@ experiences:
     company: Rundoo
     details: |
      Building the Chicago-based GTM team at Rundoo. Hard at working hiring Account Executives, Sales Development Representatives, Implementation managers, and more! 
+
   - role: People Operations Lead
     time: 2021 - 2026
     company: Logiwa
@@ -105,11 +99,11 @@ experiences:
     time: 2019-2021
     company: BenchPrep
     details: |
-    - Key contributor to 230% company growth, managing full-cycle recruiting to scale the organization from 40 to 132 employees.
-    - Conducted full cycle recruiting process from working with hiring managers to define job requirements, writing job postings, conducting phone interviews, designing and managing interview processes, and extending and negotiating job offers.
-    - Filled open roles on Engineering, Product, Instructional Design, Customer Support, Customer Success, Finance, and Sales teams, ranging from entry level to senior managers.
-    - Facilitated internal trainings for managers on interviewing, delivering feedback, and change management.
-    - Using Confluence, created guides for company intranet on topics including : mental health support during COVID-19 pandemic, interviewing, and interview debrief best practices.
+      - Key contributor to 230% company growth, managing full-cycle recruiting to scale the organization from 40 to 132 employees.
+      - Conducted full cycle recruiting process from working with hiring managers to define job requirements, writing job postings, conducting phone interviews, designing and managing interview processes, and extending and negotiating job offers.
+      - Filled open roles on Engineering, Product, Instructional Design, Customer Support, Customer Success, Finance, and Sales teams, ranging from entry level to senior managers.
+      - Facilitated internal trainings for managers on interviewing, delivering feedback, and change management.
+      - Using Confluence, created guides for company intranet on topics including : mental health support during COVID-19 pandemic, interviewing, and interview debrief best practices.
 
 
   - role: Research & Sourcing Specialist
@@ -139,90 +133,13 @@ certifications:
     # credentialname: Github
 
 #projects:
-  title: Projects
-  intro: >
+  #title: Projects
+  #intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-#oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-#publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
-#skills:
-  title: Skills 
-
-  toolset:
-  - name: Python & Django
-    level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
+  #assignments:
+  #- title: Velocity
+    #link: "#hook"
+    #tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
