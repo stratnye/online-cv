@@ -51,7 +51,7 @@ sidebar:
       link:
 
 career-profile:
-  title: Career Profile
+  title: Summary
   summary: |
    Strategic and data-driven People and Recruiting Operations professional with in-depth hands-on Talent Acquisition experience at high-growth B2B SaaS startups and technology companies.  Proven success  building hiring and onboarding systems, and scaling GTM, technical, and corporate teams across all business levels. Skilled in driving diversity initiatives, and partnering with leadership to build high-performing, inclusive teams that support organizational goals.
 education:
@@ -81,88 +81,72 @@ education:
         - Bullet point
 
 experiences:
-  title: Experiences
+  title: Work Experience
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Talent Partner, Go-to-Market
+    time: 2026 - Present
+    company: Rundoo
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+     Building the Chicago-based GTM team at Rundoo. Hard at working hiring Account Executives, Sales Development Representatives, Implementation managers, and more! 
+  - role: People Operations Lead
+    time: 2021 - 2026
+    company: Logiwa
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      - Owned recruiting analytics and ATS (Greenhouse) data integrity for USA and Turkey recruiters, and ran enablement sessions for recruiter continuing education.
+      - Acted as a consultative People Partner for all US hiring managers, designing structured interview processes, advising on market compensation, and mitigating hiring bias.
+      - Spearheaded full-cycle recruiting and sourcing for all North American functions, achieving 50+ critical hires across 10+ diverse departments (e.g., Sales, Product, Engineering, Finance), spanning roles from entry-level to VP.
+      - Launched company’s first Diversity, Equity, & Inclusion committee, including presenting business case to executive leadership. Conducted company-wide sentiment and demographic survey, and analyzed quantitative and qualitative results using Excel & Google Sheets to drive data-driven goal setting. 
+      - Organized company-wide social and educational events focused on DEI and belonging. Facilitated cultural exchange opportunities like English language practice for international team.
+      - Ran new hire onboarding sessions and created project plans to redesign onboarding process for consistency across teams, including writing scripts for video intros from leadership. 
+      - Developed and presented training sessions for global employee audience on topics including: recruiting best practices, leadership development, unconscious bias, and communication across cultural differences.
+      - Served as interim head of USA People function for 3 months during search for new SVP.
+
+  - role: Senior Recruiter
+    time: Jan 2021 - Nov 2021
+    company: ThoughtWorks
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      - Consistently met or exceeded goal of 2 hires/month, hiring Agile Product Managers and Senior Developers (various tech stacks) for consulting project teams.
+      - Collaborated with US Immigration Team to define best practices for recruiters hiring candidates who need immigration support, and documented processes and FAQ guide in Trello. 
+      - Created and delivered training sessions for ThoughtWorks’ first class of interns on interview preparation and resume and LinkedIn profile writing.
+
+  - role: Talent Acquisition Specialist
+    time: 2019-2021
+    company: BenchPrep
+    details: |
+    - Key contributor to 230% company growth, managing full-cycle recruiting to scale the organization from 40 to 132 employees.
+    - Conducted full cycle recruiting process from working with hiring managers to define job requirements, writing job postings, conducting phone interviews, designing and managing interview processes, and extending and negotiating job offers.
+    - Filled open roles on Engineering, Product, Instructional Design, Customer Support, Customer Success, Finance, and Sales teams, ranging from entry level to senior managers.
+    - Facilitated internal trainings for managers on interviewing, delivering feedback, and change management.
+    - Using Confluence, created guides for company intranet on topics including : mental health support during COVID-19 pandemic, interviewing, and interview debrief best practices.
+
+
+  - role: Research & Sourcing Specialist
+    time: 2017-2019
+    company: Objective Partners
+    details: |
+    Sourced and engaged passive candidates for clients’ open roles. Contracted as extension of client companies’ internal recruiting teams as part of agency’s new “candidate sourcing as service” offering. Supported high-bar pre-IPO startups, Fortune 500 enterprises, and other B2B SaaS businesses. Used Boolean search strings, browser extensions, talent aggregator software, social media, and networking to find and engage talent outside of LinkedIn and active applicant pool.
+     Served on committee to design new employee training curriculum and created training materials using Camtasia video editing software and Cornerstone Learning Management System. 
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
+  - name: Professional in Human Resources
+    start: 2022
+    end: 2028
+    organization: HRCI
+    #credentialid: 111-222
+    #credentialurl: www.google.com
+    credentialname: PHR
+    
+  - name: Certified Diversity and Inclusion Recruiter
     start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+    end: 2027
+    organization: AIRS
+    #credentialid: 111-222
+    # credentialurl: www.github.com
+    # credentialname: Github
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
+#projects:
   title: Projects
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
@@ -187,7 +171,7 @@ projects:
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
+#oss:
   title: OSS Contributions
   intro: >
     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
@@ -204,7 +188,7 @@ oss:
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
+#publications:
   title: Publications
   intro: |
     You can list your publications in this section. Lorem ipsum dolor sit
@@ -226,26 +210,8 @@ publications:
     authors: Edgar T. Irons
     conference: "Comm. ACM 4 (1961), 51–55"
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
-
-skills:
-  title: Skills &amp; Proficiency
+#skills:
+  title: Skills 
 
   toolset:
   - name: Python & Django
