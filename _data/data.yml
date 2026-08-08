@@ -17,8 +17,8 @@ sidebar:
   phone: 573-999-3971
   timezone: America/Chicago # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   #citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
+  website: https://stratnye.github.io/ # Include the full website URL, including "http://" or "https://".
+  linkedin: shannonkellytratnyek
  # xing: alandoe
   github: stratnye
  # telegram: # add your nickname without '@' sign
@@ -40,43 +40,27 @@ sidebar:
     - idiom: English
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
-
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Knitting and Spinning Yarn
+      link: https://www.ravelry.com/people/thatfruitcake
+
+
+    - item: Historical European Martial Arts
       link:
-
-
-    - item: Snowboarding
-      link:
-
-
-    - item: Cooking
-      link:
-
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+   Strategic and data-driven People and Recruiting Operations professional with in-depth hands-on Talent Acquisition experience at high-growth B2B SaaS startups and technology companies.  Proven success  building hiring and onboarding systems, and scaling GTM, technical, and corporate teams across all business levels. Skilled in driving diversity initiatives, and partnering with leadership to build high-performing, inclusive teams that support organizational goals.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
+  - degree: Graduate Certificate in Business Analytics
+    university: Purdue University Daniels School of Business
+    time: 2026 - Present
+   # details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
       sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -84,10 +68,10 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
+  - degree: BA in Sociology
+    university: Grinnell College
+    time: 2009 - 2013
+    #details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
       sociis natoque penatibus et magnis dis parturient montes, nascetur
