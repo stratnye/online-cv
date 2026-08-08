@@ -60,25 +60,17 @@ education:
   - degree: Graduate Certificate in Business Analytics
     university: Purdue University Daniels School of Business
     time: 2026 - Present
-   # details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+   #details: |
+   #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+   #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+   #  sociis natoque penatibus et magnis dis parturient montes, nascetur
+   # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+   # pretium quis, sem.
+   #     - Bullet point
+   #    - Bullet point
   - degree: BA in Sociology
     university: Grinnell College
     time: 2009 - 2013
-    #details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
 
 experiences:
   title: Work Experience
