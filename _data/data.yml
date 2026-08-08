@@ -129,17 +129,8 @@ certifications:
     end: 2027
     organization: AIRS
     #credentialid: 111-222
-    # credentialurl: www.github.com
-    # credentialname: Github
-
-#projects:
-  #title: Projects
-  #intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  #assignments:
-  #- title: Velocity
-    #link: "#hook"
-    #tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    #credentialurl: www.github.com
+    #credentialname: Github
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
