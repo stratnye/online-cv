@@ -1,6 +1,5 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.10.0"
-gem "github-pages", "~> 232"
+gem "github-pages", "~> 231"
 gem "jekyll-theme-primer"
 gem "jekyll-github-metadata"
