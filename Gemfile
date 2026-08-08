@@ -1,3 +1,6 @@
 source "https://rubygems.org"
-gem "github-pages", group: :jekyll_plugins
+
+gem "jekyll", "~> 3.10.0"
+gem "github-pages", "~> 232"
+gem "jekyll-theme-primer"
 gem "jekyll-github-metadata"
