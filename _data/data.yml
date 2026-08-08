@@ -19,9 +19,9 @@ sidebar:
   #citizenship:
   website: https://stratnye.github.io/ # Include the full website URL, including "http://" or "https://".
   linkedin: shannonkellytratnyek
- # xing: alandoe
+  #xing: alandoe
   github: stratnye
- # telegram: # add your nickname without '@' sign
+  #telegram: # add your nickname without '@' sign
   #gitlab:
   #bitbucket:
   #bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
@@ -29,10 +29,10 @@ sidebar:
   #stack-overflow: # Number/Username, e.g. 123456/alandoe
   #codewars:
   #goodreads: # Number-Username, e.g. 123456-alandoe
- # mastodon: # Please include your full Mastodon link here.
- # hackerrank: # Please provide your HackerRank username.
+  #mastodon: # Please include your full Mastodon link here.
+  #hackerrank: # Please provide your HackerRank username.
   #leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  pdf: https://stratnye.github.io/online-cv/print # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
     title: Languages
