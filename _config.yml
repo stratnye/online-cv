@@ -10,7 +10,6 @@ url: 'https://stratnye.github.io/online-cv/'
 
 plugins:
   - jekyll-github-metadata
-  - jekyll-theme-primer
 
 description: A beautiful Jekyll theme for creating resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
